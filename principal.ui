@@ -65,13 +65,13 @@
        <item>
         <widget class="QDial" name="inFhar">
          <property name="minimum">
-          <number>-210</number>
+          <number>-215</number>
          </property>
          <property name="maximum">
           <number>210</number>
          </property>
          <property name="value">
-          <number>32</number>
+          <number>35</number>
          </property>
         </widget>
        </item>
