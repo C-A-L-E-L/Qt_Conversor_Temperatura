@@ -35,7 +35,7 @@
        <item>
         <widget class="QDial" name="inCent">
          <property name="minimum">
-          <number>-210</number>
+          <number>-215</number>
          </property>
          <property name="maximum">
           <number>100</number>
